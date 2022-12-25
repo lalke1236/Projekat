@@ -1,0 +1,28 @@
+body{
+    background-image:url('../slike/model_x.jpg');
+    height: 80%;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: rgba(0,0,0,0,3);
+    background-repeat: no-repeat;
+}
+.informacije{
+width: 100%;
+padding: 0 50px;
+display: flex;
+align-items: center;
+color: rgb(45, 39, 39);
+position: fixed;
+bottom: 75%;
+margin-left: 690px;
+}
+.model{
+    position: fixed;
+    top:30%;
+    right: 40%;
+}
+.model h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(45, 39, 39)
+}

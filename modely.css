@@ -1,0 +1,27 @@
+body{
+    background-image:url('../slike/model-y_R1@2.jpg');
+    height: 50%;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+}
+.informacije{
+width: 100%;
+padding: 0 50px;
+display: flex;
+align-items: center;
+color: black;
+position: fixed;
+bottom: 7%;
+margin-left: 440px;
+}
+.model{
+    position: fixed;
+    top:30%;
+    right: 40%;
+}
+.model h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(45, 39, 39)
+}
